@@ -7,7 +7,7 @@
   2. linkedin - linkedin.com/in/daniel-kemboi-8239a9174
   3. twitter - @Kim_kimbetto
 
-     Always learning, always coding 🚀 | Let's connect and collaborate on cloud adventures! 📚💻 #CloudEngineering #DevOps
+     Always learning, 📚💻 #CloudEngineering #DevOps
 
 <!---
 kimdaniels-vcc/kimdaniels-vcc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
